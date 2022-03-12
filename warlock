@@ -1,0 +1,42 @@
+Race : Satyr 
+	- +2 Charisma
+	- +1 Dexterity
+	- Speed = 35
+	- Creature type = Fey
+	- Magic resistance
+	- unarmed strikes 1d4 + STR modifier
+Ability Score : Charisma -> Constitution
+Background : Charlatan
+Cantrips : Eldritch Blast, Chill Touch, ___ , ___ , ___
+1st lvl spells : Charm Person, Witch Bolt
+2nd lvl spells :___ , ___
+3rd lvl spells :___ , ___
+Spell save DC : 8 + Charisma modifier + proficiency
+Spell attack modifier : Charisma modifier + proficiency
+
+Eldritch Invocations : 
+	-2 level (2) :
+		-Agonizing Blast (Eldritch Blast dmg++)
+		-Repelling Blast (Eldritch Blast knockback)
+		-Fiendish Vigor(free False Life (temp HP))
+		-Eyes of the Rune Keeper (read all writing)
+		-Eldritch Sight (free Detect Magic)
+		-Thief of Five Fates (Bane)
+	-5 level (3) :
+		-Sign of Ill Omen (Bestow Curse)
+		-Undying Servitude (free Animate Dead)
+		-Thirsting Blade (2x melee attack, svaki put)
+	-7 level (4) :
+		-Sculptor of Flesh (Polymorph)
+		-
+
+Subclass : The Fiend (Patron : )
+		-Spells
+		-Dark One's Blessing (1 lvl)
+		-Dark One's Own Luck (6 lvl)
+		-Fiendish Resilience (10 lvl)
+		-Hurl Through Hell (14 lvl)
+
+Pact Boon : Pact of the Tome
+		-3 bonus cantrips
+
